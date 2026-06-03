@@ -1,0 +1,8 @@
+mace-torch
+ase
+scikit-learn
+numpy
+matplotlib
+pandas
+seaborn
+tqdm

@@ -16,6 +16,8 @@ Click the button below to open the lab notebook directly in Google Colab:
 4. Colab provides free GPU/CPU, no local installation needed.
 
 > **Note:** Any changes you make are saved to your own Google Drive copy, not the original. To save your work go to **File -> Save a copy in Drive**.
+<img width="567" height="118" alt="image" src="https://github.com/user-attachments/assets/13d4e645-370a-4fd4-81b2-48cf1c25de0b" />
+
 
 ## Running Locally
 

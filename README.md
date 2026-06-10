@@ -19,6 +19,9 @@ Click the button below to open the lab notebook directly in Google Colab:
 <img width="567" height="118" alt="image" src="https://github.com/user-attachments/assets/13d4e645-370a-4fd4-81b2-48cf1c25de0b" />
 
 
+> **Note:** While running on google colab using colab GPU, you can get ~2X speed in training by adding `--enable_cueq=True` in the training script.
+
+
 ## Running Locally
 
 **Step 1: Install PyTorch.** Follow the instructions at [pytorch.org/get-started](https://pytorch.org/get-started/locally/) to pick the right version for your system (CPU or GPU).
